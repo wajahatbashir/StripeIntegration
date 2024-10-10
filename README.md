@@ -1,4 +1,4 @@
-# CI_StripeIntegration
+# StripeIntegration
 
 ## Overview
 CI_StripeIntegration is a custom Magento 2 module that integrates with Stripe to retrieve customer and subscription information based on a customer’s email. It provides Admin Panel configuration to set the Stripe API Key and allows the Magento store to interact with Stripe APIs for customer and subscription management.
